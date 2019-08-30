@@ -17,3 +17,5 @@ fields:
 - type: file
   name: photo
   label: Agent's Photo
+pages:
+- _data/agent.json
