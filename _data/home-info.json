@@ -1,8 +1,8 @@
 {
-  "street-address": "",
-  "city": "",
-  "state": "",
-  "postal-code": null,
+  "street-address": "5522 Eaglebrook Ter",
+  "city": "Dublin",
+  "state": "CA",
+  "postal-code": 94568,
   "price": "$0",
   "type": "Single Family Home",
   "room-count": null,
