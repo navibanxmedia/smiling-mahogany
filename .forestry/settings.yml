@@ -7,15 +7,12 @@ sections:
 - type: document
   path: _data/media.json
   label: ADMIN ONLY
-  match: "**/*"
 - type: document
   path: _data/agent.json
   label: Agent Info
-  match: "**/*"
 - type: document
   path: _data/home-info.json
   label: Property Details
-  match: "**/*"
 - type: document
   path: _data/social.json
   label: Social Links
