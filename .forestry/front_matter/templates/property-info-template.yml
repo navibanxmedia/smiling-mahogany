@@ -44,3 +44,5 @@ fields:
   name: photo
   label: Featured Photo
   hidden: true
+pages:
+- _data/home-info.json
